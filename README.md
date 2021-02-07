@@ -1,2 +1,7 @@
-# jerin
-A business card using npx
+It's me, Jerin John K!
+
+# Usage
+Via npx:
+```
+npx jerin
+```
