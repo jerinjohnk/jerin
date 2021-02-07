@@ -5,3 +5,6 @@ Via npx:
 ```
 npx jerin
 ```
+
+## Build command
+`export NPM_TOKEN=XXXXXXXXXXXXXXXXXX`
