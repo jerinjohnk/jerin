@@ -1,11 +1,10 @@
-
 {
   "name": "jerin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A personal card for Jerin John K.",
   "main": "index.js",
   "bin": {
-    "jerin": "./bin/card.js"
+    "jerin": "bin/card.js"
   },
   "repository": {
     "type": "git",
